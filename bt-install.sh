@@ -3,7 +3,7 @@ Green_font="\033[32m" && Yellow_font="\033[33m" && Red_font="\033[31m" && Font_s
 Info="${Green_font}[Info]${Font_suffix}"
 Error="${Red_font}[Error]${Font_suffix}"
 PANEL_DIR=/www/server/panel
-bt_domain=https://api.loli.host
+bt_domain=https://github.com/guyezi/word2cn/raw/master/
 PLUGIN_RETURN="${Yellow_font}在面板安装插件完成之后，从下表选择你要破解的插件:${Font_suffix}"
 MAIN_RETURN=${Red_font}[宝塔面板v6.9.0破解脚本]${Font_suffix}
 MAIN_RETURNS=${Red_font}[升级专业版，请按提示进行操作！]${Font_suffix}
