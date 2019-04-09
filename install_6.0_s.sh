@@ -69,7 +69,7 @@ echo "
 +----------------------------------------------------------------------
 "
 
-download_Url=https://api.loli.host
+download_Url=https://github.com/guyezi/word2cn/raw/master
 echo "Download node: $download_Url";
 echo '---------------------------------------------';
 setup_path=/www
